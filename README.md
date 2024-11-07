@@ -1,6 +1,6 @@
 # 地元民おすすめ飲食店MAP
-* 新大阪・三国アートフェス実行委員会によるおすすめ施設・店舗マップのオンライン版です。
-* https://yodogawaartnet.jimdofree.com/%E5%8D%81%E4%B8%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9/fes2024-mikuni/
+* Code for Kusatsuによるおすすめ施設・店舗マップです。
+* https://codeforkusatsu.org/
 * 開発にはCommunity MapMakerを利用しています。
 * https://github.com/K-Sakanoshita/community_mapmaker
  
@@ -9,5 +9,4 @@
 * 写真ファイルは閲覧目的でのみ利用し、再配布はお断りいたします。
 
 ## 更新履歴
-* 2024/10/25 公開開始
-* 2024/11/06 データ修正、Static化
+* 2024/11/07 公開開始
