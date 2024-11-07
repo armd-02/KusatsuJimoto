@@ -1,0 +1,102 @@
+{
+    "site_title": {
+        "ja": "地元民おすすめ飲食店MAP",
+        "en": " Map of restaurants recommended by locals"
+    },
+    "site_subtitle": {
+        "ja": "Code for Kusatsu",
+        "en": "Code for Kusatsu"
+    },
+    "about": {
+        "ja": "地元民おすすめ飲食店MAPについて",
+        "en": "about Map of restaurants recommended by locals"
+    },
+    "about_message": {
+        "ja": "Code for Kusatsuがおすすめする店舗や施設情報を表示します。",
+        "en": "Displays Map of restaurants recommended by locals by Code for Kusatsu."
+    },
+    "owner": {
+        "ja": "Code for Kusatsu公式サイトへ",
+        "en": "Go to the official website of Code for Kusatsu"
+    },
+    "licence_title": {
+        "ja": "利用しているデータについて",
+        "en": "about playground equipment map"
+    },
+    "licence_message": {
+        "ja": "地元民おすすめ飲食店MAPのデータはOpenStreetMapと独自データを組み合わせています。</a>",
+        "en": "The Map of restaurants recommended by locals is a combination of OpenStreetMap and original.</a>"
+    },
+    "more_message": {
+        "ja": "",
+        "en": ""
+    },
+    "act_title": {
+        "ja": "【題名】",
+        "en": "[Subject] "
+    },
+    "act_actor": {
+        "ja": "【出演/作家】",
+        "en": "Actor"
+    },
+    "act_genre": {
+        "ja": "【ジャンル】",
+        "en": "[Genre] "
+    },
+    "act_datetime": {
+        "ja": "【開催日時】",
+        "en": "DateTime"
+    },
+    "act_enter": {
+        "ja": "【来場時】",
+        "en": "entering"
+    },
+    "act_fee": {
+        "ja": "【料金】",
+        "en": "Fee"
+    },
+    "act_reserve": {
+        "ja": "【予約方法】",
+        "en": "Reserve"
+    },
+    "act_memo": {
+        "ja": "",
+        "en": ""
+    },
+    "act_address": {
+        "ja": "【住所】",
+        "en": "[Address] "
+    },
+    "act_detail_url": {
+        "ja": "【詳細URL】",
+        "en": "[detail URL] "
+    },
+    "act_picture_url1": {
+        "ja": "【写真URL1】",
+        "en": "[Picture URL1] "
+    },
+    "act_picture_url2": {
+        "ja": "【写真URL2】",
+        "en": "[Picture URL2] "
+    },
+    "act_picture_url3": {
+        "ja": "【写真URL3】",
+        "en": "[Picture URL3] "
+    },
+    "act_picture_url4": {
+        "ja": "【写真URL4】",
+        "en": "[Picture URL4] "
+    },
+    "act_picture_url5": {
+        "ja": "【写真URL5】",
+        "en": "[Picture URL5] "
+    },
+    "act_picture_url6": {
+        "ja": "【写真URL6】",
+        "en": "[Picture URL6] "
+    },
+    "act_picture_url7": {
+        "ja": "【写真URL7】",
+        "en": "[Picture URL7] "
+    }
+}
