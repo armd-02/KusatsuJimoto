@@ -2,6 +2,8 @@
     "osm": {
         "KusatsuJimoto": {
             "overpass": [
+                "nwr[\"building\"=\"university\"]",
+                "nwr[\"highway\"=\"bus_stop\"]",
                 "nwr[\"amenity\"]",
                 "nwr[\"shop\"]",
                 "nwr[\"craft\"]",
@@ -12,6 +14,8 @@
             ],
             "tags": [
                 "shop",
+                "building",
+                "highway",
                 "amenity!=parking",
                 "amenity!=vending_machine",
                 "amenity!=parking_entrance",
