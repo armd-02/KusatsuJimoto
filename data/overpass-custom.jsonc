@@ -16,7 +16,6 @@
                 "shop",
                 "building",
                 "highway",
-                "amenity!=parking",
                 "amenity!=vending_machine",
                 "amenity!=parking_entrance",
                 "amenity!=bench",
