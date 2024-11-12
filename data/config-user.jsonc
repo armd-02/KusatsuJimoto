@@ -55,8 +55,8 @@
         "action": "" // ChangeMap:背景地図切り替え
     },
     "listTable": {
-        "category": "activity", // カテゴリ選択 / activity:アクティビティリスト / tags:タグ
-        "target": "activity", // target名:overpass名を表示 / activity:google sheetsを表示 / tags:osm poi種別名を表示
+        "category": "tags", // カテゴリ選択 / activity:アクティビティリスト / tags:タグ
+        "target": "tags", // target名:overpass名を表示 / activity:google sheetsを表示 / tags:osm poi種別名を表示
         "allActs": true, // true: 全てのactivityを常に表示 / false: 画面内のActivityのみ表示
         "playback": {
             "view": false,
