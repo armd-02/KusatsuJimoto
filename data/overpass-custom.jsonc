@@ -37,6 +37,25 @@
                 "note"
             ]
         },
+        "vending_machine": {
+            "overpass": [
+                "nwr[\"amenity\"]"
+            ],
+            "tags": [
+                "amenity=vending_machine",
+                "amenity=waste_basket"
+            ],
+            "expression": {
+                "poiView": true, // true時はアイコン表示
+                "stroke": "#A06060",
+                "stroke-width": 1
+            },
+            "titles": [
+                "name",
+                "operator",
+                "note"
+            ]
+        },
         "Green": {
             "overpass": [
                 "nwr[\"natural\"=\"tree_row\"]",

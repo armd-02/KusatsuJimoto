@@ -26,6 +26,7 @@
         "poiZoom": {
             // アイコンの前後位置は後ろの方が手前になる
             "activity": 8,
+            "vending_machine": 16,
             "Green": 15.5
         },
         "poiFilter": "filter", // listTable更新時 all:全て / filter:絞り込み / "":非連動
